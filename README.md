@@ -1,9 +1,9 @@
-### Hi there 👋  
+Hi there 👋  
 I'm **Mufaees Khan**, an aspiring **IoT & Full Stack Developer** passionate about blending hardware and software to create intelligent systems.  
 - 🌐 Exploring Cloud & Cybersecurity for IoT  
 - 💻 Building IoT-based smart devices and web applications  
 - 📫 Connect with me on [LinkedIn](your-link) or [Portfolio](your-portfolio-link)
-## Hi there 👋
+�
 
 <!--
 **mufaees/mufaees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
